@@ -116,3 +116,5 @@ This project shows that physiological signals can be used to classify pain and n
 ## Author
 
 **Pearl Viralkumar Patel**
+
+![image alt](https://github.com/pearl31patel/Pain-Recognition-Physiological-Data/blob/3f4babefeae5d4dd0cf9c1350c5c450e35de5e57/pain_recognition.png)
